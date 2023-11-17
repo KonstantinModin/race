@@ -1,0 +1,15 @@
+.Item {
+  /* border: 1px solid grey; */
+  width: 15px;
+  height: 15px;
+  /* position: relative; */
+  font-size: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.Item-content img {
+  height: 35px;
+}
